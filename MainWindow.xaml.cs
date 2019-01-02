@@ -185,7 +185,7 @@ namespace NewAccount
             ol_mailItem.Display(true);
 
             //----Construct Excel Entry----
-            string path = "\\\\city\\fileserver\\iss\\HelpDesk\\_CountyE-mailAdd-DeleteList.xlsx";
+            string path = "path-to-excel-file";
 
             //open Excel application
             Excel.Application xcl_app = new Excel.Application
