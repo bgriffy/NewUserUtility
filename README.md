@@ -13,4 +13,4 @@ All commands should be run from the project root directory.
 1. Fill out the form. 
 
 
-![alt text](https://i.imgur.com/Qs26j7Xl.png)
+![alt text](https://i.imgur.com/knrAcKw.png)
