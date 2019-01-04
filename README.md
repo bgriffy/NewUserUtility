@@ -10,7 +10,8 @@ All commands should be run from the project root directory.
 - To uninstall the program, locate "AcctUtilitySetup" in the Control Panel.  
 
 ## How to use
-&nbsp;1. Fill out the form.
+
+1. Fill out the form.
 ![alt text](https://i.imgur.com/knrAcKw.png)
 - The name, username, email, and department fields are required. The phone number and the remarks fields are optional. 
 - Both first and last name must be included. 
