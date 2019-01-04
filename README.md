@@ -12,7 +12,7 @@ All commands should be run from the project root directory.
 ## How to use
 
 1. Fill out the form.
-&nbsp;![alt text](https://i.imgur.com/knrAcKw.png)
+![alt text](https://i.imgur.com/knrAcKw.png)
 - The name, username, email, and department fields are required. The phone number and the remarks fields are optional. 
 - Both first and last name must be included. 
 - Only include the first and last name. Don't include the middle name. 
