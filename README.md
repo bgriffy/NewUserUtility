@@ -9,8 +9,7 @@ All commands should be run from the project root directory.
 - This will install the program, it's name is New User Utility.exe. 
 - To uninstall the program, locate "AcctUtilitySetup" in the Control Panel.  
 
-## How to use
-
+# How to use
 1. Fill out the form.
 ![alt text](https://i.imgur.com/knrAcKw.png)
 - The name, username, email, and department fields are required. The phone number and the remarks fields are optional. 
