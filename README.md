@@ -19,11 +19,11 @@ All commands should be run from the project root directory.
 - Selecting the "Default Email" option will auto-populate the email field with a default email in the form of 
 Firstname.Lastname@talgov.com. In order to use this option, the first and last name need to be already filled out. 
 2. Once you hit "Submit", the Outlook email will be auto-generated. 
-![alt text](https://i.imgur.com/knrAcKw.png)
+![alt text](https://i.imgur.com/l0nKF7V.png)
 - The only thing you need to do is specify the person to send the credentials to, and hit "Send". 
 - The program will automatically determine if it is morning, afternoon, or evening based on the current time. This will be used in the email greeting (e.g. Good morning, Good evening). 
 - A generic Help Desk signature will be automatically appended to the email.
 3. Once you send the Outlook email, the Excel sheet will automatically open.
-![alt text](https://i.imgur.com/knrAcKw.png)
+![alt text](https://i.imgur.com/waQWyMv.png)
 - The program will automatically fill in the relevant information, and bring up the "Save/Dont Save" window. If the changes look correct, hit "Save". The Excel sheet will automatically close.
 - If you want report another user's credentials, hit "Enter Another" button in New User Utility window.
