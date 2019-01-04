@@ -10,7 +10,11 @@ All commands should be run from the project root directory.
 - To uninstall the program, locate "AcctUtilitySetup" in the Control Panel.  
 
 ## How to use
-
+1. Once you hit "Submit", the Outlook email will be auto-generated. 
+![alt text](https://i.imgur.com/knrAcKw.png)
+- The only thing you need to do is specify the person to send the credentials to, and hit "Send". 
+- The program will automatically determine if it is morning, afternoon, or evening based on the current time. This will be used in the email greeting (e.g. Good morning, Good evening). 
+- A generic Help Desk signature will be automatically appended to the email.
 1. Fill out the form.
 ![alt text](https://i.imgur.com/knrAcKw.png)
 - The name, username, email, and department fields are required. The phone number and the remarks fields are optional. 
